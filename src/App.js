@@ -6,7 +6,7 @@ import ProfileCreationFreelancer from "./pages/ProfileCreationFreelancer/Profile
 import FreelancerProfile from "./pages/FreelancerProfile/FreelancerProfile";
 import ProfileCreationClient from "./pages/ProfileCreationClient/ProfileCreationClient";
 import ClientProfile from "./pages/ClientProfile/ClientProfile";
-import SearchJobs from "./pages/SearchJobs/SearchJobs";
+import SearchJobs from "./pages/SearchJobs/SearchJobs"; 
 import JobApplications from "./pages/JobApplications/JobApplications";
 const App = () => {
   return (
